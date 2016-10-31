@@ -4,7 +4,7 @@
 
 This is a port of the [Clean Modern PSD](https://www.dropbox.com/s/4bqg4y8cru95ek6/Screens.psd.zip?dl=0) to Codename One which allows it to run on all devices. You can see this running in the browser and on device by checking out the [demos page](https://www.codenameone.com/demos-CleanModern.html).
 
-[//]: # (Check out [this blog](https://www.codenameone.com/blog/template-clean-modern-ui-kit.html) post with a live preview covering this demo.)
+(Check out [this blog](https://www.codenameone.com/blog/template-clean-modern-ui-kit.html) post with a live preview covering this demo.)
 
 Following are actual device screenshots of this demo:
 
